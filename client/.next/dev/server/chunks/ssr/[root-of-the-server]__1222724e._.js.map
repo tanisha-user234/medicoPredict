@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tanisha.5.yadav/Documents/Anti/medico/client/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <main className=\"flex min-h-screen flex-col items-center justify-between p-24\">\n      <div className=\"z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex\">\n        <h1 className=\"text-4xl font-bold text-blue-600\">\n          PharmaGuard <span className=\"text-sm text-gray-500\">(TS Version)</span>\n        </h1>\n      </div>\n    </main>\n  );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAI,WAAU;sBACb,cAAA,8OAAC;gBAAG,WAAU;;oBAAmC;kCACnC,8OAAC;wBAAK,WAAU;kCAAwB;;;;;;;;;;;;;;;;;;;;;;AAK9D"}}]
+}
